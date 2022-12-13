@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactportofolio/static/css/main.7600f3a1.css",
+    "main.js": "/reactportofolio/static/js/main.a2b4f900.js",
+    "static/media/bck.jpg": "/reactportofolio/static/media/bck.0822cc00c74acc260da5.jpg",
+    "static/media/dicoding2.jpg": "/reactportofolio/static/media/dicoding2.d8a95782ad4c5d391a2f.jpg",
+    "static/media/dicoding3.jpg": "/reactportofolio/static/media/dicoding3.cf777477f7fc8a2b14d6.jpg",
+    "static/media/dicoding1.jpg": "/reactportofolio/static/media/dicoding1.ac87cdf0ec7d659532d3.jpg",
+    "static/media/fotodiri.jpg": "/reactportofolio/static/media/fotodiri.d27fffd85521c90504bd.jpg",
+    "static/media/book3.jpg": "/reactportofolio/static/media/book3.d6606f879e5a217d8efd.jpg",
+    "static/media/book1.jpg": "/reactportofolio/static/media/book1.3662ff54bd1c4ae9bad6.jpg",
+    "static/media/webtraveling3.jpg": "/reactportofolio/static/media/webtraveling3.004da77c4152ef5c2fb7.jpg",
+    "static/media/porto1.jpg": "/reactportofolio/static/media/porto1.9464bcaeda8617357d91.jpg",
+    "static/media/webtraveling1.jpg": "/reactportofolio/static/media/webtraveling1.88bc1df9daf63f7df270.jpg",
+    "static/media/codingStudio.jpg": "/reactportofolio/static/media/codingStudio.d1bb0a0d4f568b6794a7.jpg",
+    "static/media/zetro1.jpg": "/reactportofolio/static/media/zetro1.38993974f247585d28f7.jpg",
+    "static/media/zetro2.jpg": "/reactportofolio/static/media/zetro2.6b21a07f3047d20a6983.jpg",
+    "static/media/porto3.jpg": "/reactportofolio/static/media/porto3.6a70e3461a1d619b5be0.jpg",
+    "index.html": "/reactportofolio/index.html",
+    "main.7600f3a1.css.map": "/reactportofolio/static/css/main.7600f3a1.css.map",
+    "main.a2b4f900.js.map": "/reactportofolio/static/js/main.a2b4f900.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7600f3a1.css",
+    "static/js/main.a2b4f900.js"
+  ]
+}
